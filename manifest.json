@@ -1,0 +1,366 @@
+{
+  "homepages": [],
+  "source_base_path": "D:/P4/Aspen/Components/Haestad.Calculations.Shanghai/Development/Haestad.Calculations.Shanghai.WaterGEMS.Test",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "ZRUqDMBPvXY7PierRa7zAQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "kDeQ8D2F9g1mLLC8nNdGGg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "gB8AESyvNru97tzIZofEEg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "H7/1k2yurbMjpzlC/HUUvg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Haestad.Calculations.Shanghai.WaterGEMS.Test.Args.Input.HammerPumpVariableSpeedArg.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Haestad.Calculations.Shanghai.WaterGEMS.Test.Args.Input.HammerPumpVariableSpeedArg.html",
+          "hash": "FkYemJepMoQg3iEpRRtgTw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Haestad.Calculations.Shanghai.WaterGEMS.Test.Args.Input.HammerValveTransientOperatingRuleArg.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Haestad.Calculations.Shanghai.WaterGEMS.Test.Args.Input.HammerValveTransientOperatingRuleArg.html",
+          "hash": "106nKEjaQ3/1tlo5c8YQLA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Haestad.Calculations.Shanghai.WaterGEMS.Test.Args.Input.Plan1Args.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Haestad.Calculations.Shanghai.WaterGEMS.Test.Args.Input.Plan1Args.html",
+          "hash": "LZtBd6CtUG0qgBfyxMN9WQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Haestad.Calculations.Shanghai.WaterGEMS.Test.Args.Input.Plan3Args.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Haestad.Calculations.Shanghai.WaterGEMS.Test.Args.Input.Plan3Args.html",
+          "hash": "k6LhOiS9KwXPh76WYDBdhQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Haestad.Calculations.Shanghai.WaterGEMS.Test.Args.Input.QingDaoArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Haestad.Calculations.Shanghai.WaterGEMS.Test.Args.Input.QingDaoArgs.html",
+          "hash": "PJZydGUlTz2qBZ3OhQ2otQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Haestad.Calculations.Shanghai.WaterGEMS.Test.Args.Input.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Haestad.Calculations.Shanghai.WaterGEMS.Test.Args.Input.html",
+          "hash": "yz/HKgGFKGApwBdhHNffYA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Haestad.Calculations.Shanghai.WaterGEMS.Test.Args.Plan1EPSResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Haestad.Calculations.Shanghai.WaterGEMS.Test.Args.Plan1EPSResult.html",
+          "hash": "c0Jk/njpnFd4rsFst4KnhQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Haestad.Calculations.Shanghai.WaterGEMS.Test.Args.Plan1NodeEPSResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Haestad.Calculations.Shanghai.WaterGEMS.Test.Args.Plan1NodeEPSResult.html",
+          "hash": "q4zJ3CVkAZIg95FcozMRyQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Haestad.Calculations.Shanghai.WaterGEMS.Test.Args.Plan1PipeEPSResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Haestad.Calculations.Shanghai.WaterGEMS.Test.Args.Plan1PipeEPSResult.html",
+          "hash": "ViXw0Xu8ARVQBs/8R6/ToA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Haestad.Calculations.Shanghai.WaterGEMS.Test.Args.Plan1Result.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Haestad.Calculations.Shanghai.WaterGEMS.Test.Args.Plan1Result.html",
+          "hash": "MqIwv3+Chf7jLatesbRajw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Haestad.Calculations.Shanghai.WaterGEMS.Test.Args.Plan3AirValveTransientResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Haestad.Calculations.Shanghai.WaterGEMS.Test.Args.Plan3AirValveTransientResult.html",
+          "hash": "EOib5Yqn2gCYLtf3FGEPeA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Haestad.Calculations.Shanghai.WaterGEMS.Test.Args.Plan3JunctionTransientResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Haestad.Calculations.Shanghai.WaterGEMS.Test.Args.Plan3JunctionTransientResult.html",
+          "hash": "SMRHP2rtgpRXIXie+zfazA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Haestad.Calculations.Shanghai.WaterGEMS.Test.Args.Plan3PipeTransientResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Haestad.Calculations.Shanghai.WaterGEMS.Test.Args.Plan3PipeTransientResult.html",
+          "hash": "L89VbBlrD67pZKklcDKaCQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Haestad.Calculations.Shanghai.WaterGEMS.Test.Args.Plan3Result.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Haestad.Calculations.Shanghai.WaterGEMS.Test.Args.Plan3Result.html",
+          "hash": "zTuoNQw4cA9Ry5SlEW38zg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Haestad.Calculations.Shanghai.WaterGEMS.Test.Args.Plan3TimePointResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Haestad.Calculations.Shanghai.WaterGEMS.Test.Args.Plan3TimePointResult.html",
+          "hash": "8U66j7iEACspudPShp00JQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Haestad.Calculations.Shanghai.WaterGEMS.Test.Args.TransientPressureResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Haestad.Calculations.Shanghai.WaterGEMS.Test.Args.TransientPressureResult.html",
+          "hash": "fahj0F+rNg2FhKCzFBM0ZQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Haestad.Calculations.Shanghai.WaterGEMS.Test.Args.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Haestad.Calculations.Shanghai.WaterGEMS.Test.Args.html",
+          "hash": "SDoSEfRwkvv4v+iQov6i9w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Haestad.Calculations.Shanghai.WaterGEMS.Test.QingDaoExtension.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Haestad.Calculations.Shanghai.WaterGEMS.Test.QingDaoExtension.html",
+          "hash": "SxcNDGoiujwZ7yBm3C7lGg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Haestad.Calculations.Shanghai.WaterGEMS.Test.QingDaoTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Haestad.Calculations.Shanghai.WaterGEMS.Test.QingDaoTest.html",
+          "hash": "6UxHUZJI5s+1UW+aZER1pg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Haestad.Calculations.Shanghai.WaterGEMS.Test.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Haestad.Calculations.Shanghai.WaterGEMS.Test.html",
+          "hash": "L9Toi811u2M8szTJjaco2Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "obj/api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "HzywV7v5IWU9wb6Hwpvdlg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "G2AoE5T/2VarbHvzLEo4TQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 3,
+          "skipped_file_count": 2
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 20,
+          "skipped_file_count": 20
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
